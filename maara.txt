@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "what is you name?"
+read name
+echo "how do you do, $name?"
+read remark
+echo "i am $reamark too!"
